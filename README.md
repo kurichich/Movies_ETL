@@ -5,4 +5,5 @@ The Amazing Prime video team would like to develop an algorythm to predict which
 
 The goal is to extract the data from both datasets, clean and transform the data, and load the results into a Sequel database.
 
-
+## Resources
+The movies_metadata file was too large to load into GitHub.
